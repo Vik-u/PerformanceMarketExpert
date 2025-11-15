@@ -1,0 +1,2 @@
+[console_scripts]
+adpulse = adpulse.cli:app
